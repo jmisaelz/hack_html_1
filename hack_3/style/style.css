@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor_01 {
+    background-color: #93B5C9;
+    width: 100vw;
+    height: 10vh;
+}
+
+.contenedor_02 {
+    background-color: #AB2849;
+    width: 100vw;
+    height: 20vh;
+}
+
+.contenedor_03 {
+    width: 90vw;
+    height: 55vh;
+    margin: 2vh auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.caja_tipo_01 {
+    background-color: #AB2849;
+    width: 90vw;
+    height: 12vh;
+}
+
+.caja_tipo_02 {
+    background-color: #AB2849;
+    width: 44.8vw;
+    height: 12vh;
+    margin-right: 0.2vw;
+}
+
+.caja_tipo_03 {
+    background-color: #AB2849;
+    width: 44.8vw;
+    height: 12vh;
+    margin-left: 0.2vw;
+}
+
+.contenedor_04 {
+    background-color: #AB2849;
+    width: 100vw;
+    height: 9vh;
+    margin-top: 1vh;
+}
