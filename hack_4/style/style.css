@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.linea_sup {
+    width: 5vw;
+    height: 1vh;
+    /*border: 2px;*/
+    border-radius: 10%;
+    background-color: black;
+    text-align: center;
+    font-weight: 900;
+    margin: 2vh auto;
+}
+
+h1, h2, h3 {
+    font: ruda;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1 {
+    color: #B88940;
+}
+
+.linea_01 {
+    text-align: center;
+    font: catamaran;
+}
+
+.container_general {
+    width: 100vw;
+    height: 40vh;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container_lineas {
+    margin-top: 15vh;
+    position: relative;
+    z-index: 0;
+}
+
+.linea_02 {
+    width: 95vw;
+    height: 5vh;
+    background-color: #FFBD59;
+    margin: 2vh auto;
+    
+}
+
+.container_imagenes {
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    z-index: 1;
+    top: -35vh;
+    left: 10vw;
+   
+}
+
+.img_01 {
+    width: 20vw;
+    margin: 2vw;
+
+
+}
