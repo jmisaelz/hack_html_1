@@ -39,7 +39,7 @@ body {
 }
 
 .sec_01 {
-    position: relative;
+    /*position: relative;*/
 }
 
 .contenedor_img {
@@ -111,6 +111,31 @@ body {
     margin-bottom: auto;
 }
 
+.sec_02 {
+    margin: 0 auto;
+}
+
+.contenedor_img_02, .contenedor_titulo_05 {
+    width: 80vw;
+    margin: 0 auto;
+}
+
+.contenedor_img_02 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.soluciones_01 {
+    width: 20vw;
+    margin: 0 auto;
+}
+
+.img_02 {
+    width: 200px;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 
